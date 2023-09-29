@@ -28,8 +28,8 @@
 
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=Beralta&show_icons=true&theme=radical" style="height: 130px;"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beralta&layout=compact&theme=radical" style="height: 130px;">
+ <img src="https://github-readme-stats.vercel.app/api?username=Beralta&show_icons=true&theme=radical" style="height: 170px;"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beralta&layout=compact&theme=radical" style="height: 170px;">
 </div>
 
 
