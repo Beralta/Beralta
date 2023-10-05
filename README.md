@@ -10,7 +10,7 @@
 <hr>
 
 ### 🧑🏾‍💻 About Me:
-<i style="color: #FF0000;">I am a Full Stack Developer and creator of programming content on YouTube. I love receiving new ideas and making them real with just a few lines of code.</i>
+<i style="color: #FF0000;">I'm Full Stack Developer with focus in Php, Laravel and Typescript. I'm also a creator of programming content on YouTube. I love receiving new ideas and making them real with just a few lines of code.</i>
 
 <hr>
 
