@@ -10,7 +10,7 @@
 <hr>
 
 ### 🧑🏾‍💻 About Me:
-<i style="color: #FF0000;">I'm Frontend Developer with focus in Typescript with React. I'm also a creator of screenplay of programming content on YouTube. I love receiving new ideas and making them real with just a few lines of code.</i>
+<i style="color: #FF0000;">I'm Backend Developer with focus in Java with Spring. I'm also a creator of screenplay of programming content on YouTube. I love receiving new ideas and making them real with just a few lines of code.</i>
 
 <hr>
 
